@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntime1pi",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

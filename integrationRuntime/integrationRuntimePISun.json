@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimePISun",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
