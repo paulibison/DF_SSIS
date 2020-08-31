@@ -7,6 +7,9 @@
 		},
 		"SqlServer1_connectionString": {
 			"value": ""
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
